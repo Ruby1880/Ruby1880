@@ -1,5 +1,5 @@
-
-<!--![photo_5260766975879744615_y](https://github.com/user-attachments/assets/6f68f68b-f9e7-40ce-85e9-25bd2e22ea35)
+<!--![photo_5260766975879744615_y](https://github.com/user-attachments/assets/c8474a0e-5de2-40dc-9ac9-473bc3626929)
+![photo_5260766975879744615_y](https://github.com/user-attachments/assets/6f68f68b-f9e7-40ce-85e9-25bd2e22ea35)
 
 **Ruby1880/Ruby1880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
