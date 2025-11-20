@@ -1,4 +1,4 @@
-[My Image] ![photo_5260766975879744615_y](https://github.com/user-attachments/assets/0450368d-662a-446e-b588-ffd2bf78ce30)
+![photo_5260766975879744615_y](https://github.com/user-attachments/assets/0450368d-662a-446e-b588-ffd2bf78ce30)
 
 <!--![photo_5260766975879744615_y](https://github.com/user-attachments/assets/c8474a0e-5de2-40dc-9ac9-473bc3626929)
 ![photo_5260766975879744615_y](https://github.com/user-attachments/assets/6f68f68b-f9e7-40ce-85e9-25bd2e22ea35)
